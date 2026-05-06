@@ -1,6 +1,8 @@
 {
-  "latest": "0.10",
+  "latest": "0.11",
   "versions": [
+    {"version":"0.11","file":"archive/firmware_0.11.bin","size":1257968,"url":"https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.11.bin"}
+    ,
     {"version":"0.10","file":"archive/firmware_0.10.bin","size":1257968,"url":"https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.10.bin"}
     ,
     {"version":"20260506_133656","file":"archive/firmware_20260506_133656.bin","size":1226368,"url":"https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_20260506_133656.bin"}
