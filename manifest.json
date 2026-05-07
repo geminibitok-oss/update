@@ -1,7 +1,8 @@
-{
-  "file": "firmware.bin",
-  "version": "0.13",
-  "size": 1257968,
-  "sha256": "74319c1f662cea1539973afdf4bfef52f3bd5c365684aa6efa5da533dbfbda13",
-  "url": "https://raw.githubusercontent.com/geminibitok-oss/update/main/firmware.bin"
+﻿{
+    "file":  "firmware.bin",
+    "version":  "0.14",
+    "size":  1257968,
+    "sha256":  "74319c1f662cea1539973afdf4bfef52f3bd5c365684aa6efa5da533dbfbda13",
+    "note":  "ккк",
+    "url":  "https://raw.githubusercontent.com/geminibitok-oss/update/main/firmware.bin"
 }

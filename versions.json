@@ -1,8 +1,26 @@
-{
-  "latest": "0.13",
-  "versions": [
-    {"version":"0.13","file":"archive/firmware_0.13.bin","size":1257968,"url":"https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.13.bin"}
-    ,
-    {"version":"0.12","file":"archive/firmware_0.12.bin","size":1257968,"url":"https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.12.bin"}
-  ]
+﻿{
+    "latest":  "0.14",
+    "versions":  [
+                     {
+                         "version":  "0.14",
+                         "file":  "archive/firmware_0.14.bin",
+                         "size":  1257968,
+                         "note":  "ккк",
+                         "url":  "https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.14.bin"
+                     },
+                     {
+                         "version":  "0.13",
+                         "file":  "archive/firmware_0.13.bin",
+                         "size":  1257968,
+                         "note":  "",
+                         "url":  "https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.13.bin"
+                     },
+                     {
+                         "version":  "0.12",
+                         "file":  "archive/firmware_0.12.bin",
+                         "size":  1257968,
+                         "note":  "",
+                         "url":  "https://raw.githubusercontent.com/geminibitok-oss/update/main/archive/firmware_0.12.bin"
+                     }
+                 ]
 }
